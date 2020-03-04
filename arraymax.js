@@ -1,3 +1,4 @@
+//Calculated the highest value from an array
 var marks = [45, 81, 63, 98, 56, 35, 23, 87];
 var max = marks[0];
 for(var i=0; i<marks.length; i++){
