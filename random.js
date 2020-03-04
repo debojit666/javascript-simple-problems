@@ -9,9 +9,9 @@ console.log(result3);
 
 
 
-//calculating random number from 0 to 6 (Using loop)
-for(var i=0; i<6; i++){
-    var randomNumber = Math.random() * 6;
+//calculating 5 random numbers from 0 to 6 (Using loop)
+for(var i=0; i<5; i++){
+    var randomNumber = Math.random() * 6; 
     var output = Math.round(randomNumber);
     console.log(output);
 }
